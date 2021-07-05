@@ -26,7 +26,7 @@ SECRET_KEY = 'yu45_c==)z(58&vpjzj5*qhc8b25l9wyqz*2x3%wit%l+@t3t6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['peaceful-thicket-64394.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
